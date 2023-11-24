@@ -26,7 +26,7 @@ import androidx.navigation.NavHostController
 import com.example.rosaapp.ui.theme.BackgroundColor
 import com.example.rosaapp.ui.theme.BlackCustom
 import com.example.rosaapp.ui.theme.BlackLightCustom
-import com.example.rosaapp.ui.theme.Purple
+import com.example.rosaapp.ui.theme.Green
 
 @Composable
 fun ThirdScreen(
@@ -46,21 +46,21 @@ fun ThirdScreen(
         ) {
             Image(
                 modifier = Modifier.padding(30.dp),
-                painter = painterResource(id = R.drawable.image_10__1_),
+                painter = painterResource(id = R.drawable.image_20),
                 contentDescription = ""
             )
         }
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "Queria está assim com você",
+            text = "Queria lhe falar que eu gosto de você",
             style = MaterialTheme.typography.bodyLarge,
             color = BlackCustom
         )
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "FAÇA ALGO ROSÁLIA FRANCISCA...",
+            text = "Mesmo tu tendo memória ruim e sendo fedorenta",
             style = MaterialTheme.typography.titleLarge,
             color = BlackLightCustom
         )
@@ -75,8 +75,8 @@ fun ThirdScreen(
                 .height(56.dp)
                 .padding(horizontal = 30.dp),
             colors = ButtonDefaults.buttonColors(
-                contentColor = Purple,
-                containerColor = Purple
+                contentColor = Green,
+                containerColor = Green
             )
         ) {
             Text(

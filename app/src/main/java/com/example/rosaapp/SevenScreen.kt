@@ -28,14 +28,13 @@ import androidx.navigation.NavHostController
 import com.example.rosaapp.ui.theme.BackgroundColor
 import com.example.rosaapp.ui.theme.BlackCustom
 import com.example.rosaapp.ui.theme.BlackLightCustom
-import com.example.rosaapp.ui.theme.Purple
+import com.example.rosaapp.ui.theme.Green
 
 @Composable
 fun SevenScreen(
     navController: NavHostController
 ) {
     val scrollState = rememberScrollState()
-    val activity = (LocalContext.current as? Activity)
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -48,30 +47,29 @@ fun SevenScreen(
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Image(
-
                 modifier = Modifier.padding(30.dp),
-                painter = painterResource(id = R.drawable.image_14),
+                painter = painterResource(id = R.drawable.image_24),
                 contentDescription = ""
             )
         }
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "VAI TOMAR BANHO !!!!",
+            text = "Gosto muito de você, Rosália Francisca",
             style = MaterialTheme.typography.bodyLarge,
             color = BlackCustom
         )
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "Por favor Rosalia Francisca estou sentindo a catinga daqui.",
+            text = "As vezes tenho vontade de lhe amassar, guardar em um potinho e jogar no lixo",
             style = MaterialTheme.typography.titleLarge,
             color = BlackLightCustom
         )
         Spacer(modifier = Modifier.height(40.dp))
         Button(
             onClick = {
-                activity?.finish()
+                navController.navigate(Graph.EIGHT_SCREEN)
             },
             shape = RoundedCornerShape(12.dp),
             modifier = Modifier
@@ -79,13 +77,13 @@ fun SevenScreen(
                 .height(56.dp)
                 .padding(horizontal = 30.dp),
             colors = ButtonDefaults.buttonColors(
-                contentColor = Purple,
-                containerColor = Purple
+                contentColor = Green,
+                containerColor = Green
             )
         ) {
             Text(
                 modifier = Modifier.padding(start = 16.dp),
-                text = "Fim",
+                text = "Avançar",
                 style = MaterialTheme.typography.titleLarge,
                 color = Color.White
             )

@@ -1,5 +1,6 @@
 package com.example.rosaapp
 
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -21,6 +22,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import com.airbnb.lottie.compose.LottieAnimation
@@ -31,26 +33,13 @@ import com.airbnb.lottie.compose.rememberLottieComposition
 import com.example.rosaapp.ui.theme.BackgroundColor
 import com.example.rosaapp.ui.theme.BlackCustom
 import com.example.rosaapp.ui.theme.BlackLightCustom
-import com.example.rosaapp.ui.theme.Purple
+import com.example.rosaapp.ui.theme.Green
 
 @Composable
 fun SecondScreen(
     navController: NavHostController
 ) {
     val scrollState = rememberScrollState()
-
-    val composition =
-        rememberLottieComposition(
-            LottieCompositionSpec.RawRes(
-                R.raw.lottieanimation
-            )
-        )
-
-    val progress by animateLottieCompositionAsState(
-        composition = composition.value,
-        iterations = LottieConstants.IterateForever
-    )
-
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -62,23 +51,23 @@ fun SecondScreen(
             modifier = Modifier.fillMaxWidth(),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            LottieAnimation(
-                modifier = Modifier.size(300.dp),
-                composition = composition.value,
-                progress = { progress }
+            Image(
+                modifier = Modifier.padding(30.dp),
+                painter = painterResource(id = R.drawable.image_19),
+                contentDescription = ""
             )
         }
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "Uma flor que tu não gosta",
+            text = "Inclusive nesse minuto estou espirrando faz 30 minutos",
             style = MaterialTheme.typography.bodyLarge,
             color = BlackCustom
         )
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "Pelo menos essa aqui não tem como tu matar...",
+            text = "Não aguento mais, Rosália Francisca...",
             style = MaterialTheme.typography.titleLarge,
             color = BlackLightCustom
         )
@@ -93,13 +82,13 @@ fun SecondScreen(
                 .height(56.dp)
                 .padding(horizontal = 30.dp),
             colors = ButtonDefaults.buttonColors(
-                contentColor = Purple,
-                containerColor = Purple
+                contentColor = Green,
+                containerColor = Green
             )
         ) {
             Text(
                 modifier = Modifier.padding(start = 16.dp),
-                text = "Continuar",
+                text = "Avançar",
                 style = MaterialTheme.typography.titleLarge,
                 color = Color.White
             )

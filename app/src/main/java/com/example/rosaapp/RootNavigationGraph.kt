@@ -37,6 +37,27 @@ fun RootNavigationGraph(
         composable(route =  Graph.SEVEN_SCREEN){
             SevenScreen(navController)
         }
+        composable(route =  Graph.EIGHT_SCREEN){
+            EightScreen(navController)
+        }
+        composable(route =  Graph.NINE_SCREEN){
+            NineScreen(navController)
+        }
+        composable(route =  Graph.TEN_SCREEN){
+            TenScreen(navController)
+        }
+        composable(route =  Graph.ELEVEN_SCREEN){
+            ElevenScreen(navController)
+        }
+        composable(route =  Graph.TWELVE_SCREEN){
+            TwelveScreen(navController)
+        }
+        composable(route =  Graph.THIRTEEN_SCREEN){
+            ThirteenScreen(navController)
+        }
+        composable(route =  Graph.FOURTEEN_SCREEN){
+            FourteenScreen(navController)
+        }
     }
 }
 
@@ -49,4 +70,11 @@ object Graph {
     const val FIVE_SCREEN = "FIVE_SCREEN"
     const val SIX_SCREEN = "SIX_SCREEN"
     const val SEVEN_SCREEN = "SEVEN_SCREEN"
+    const val EIGHT_SCREEN = "EIGHT_SCREEN"
+    const val NINE_SCREEN = "NINE_SCREEN"
+    const val TEN_SCREEN = "TEN_SCREEN"
+    const val ELEVEN_SCREEN = "ELEVEN_SCREEN"
+    const val TWELVE_SCREEN = "TWELVE_SCREEN"
+    const val THIRTEEN_SCREEN = "THIRTEEN_SCREEN"
+    const val FOURTEEN_SCREEN = "FOURTEEN_SCREEN"
 }

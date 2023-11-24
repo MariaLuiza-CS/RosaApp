@@ -26,7 +26,7 @@ import androidx.navigation.NavHostController
 import com.example.rosaapp.ui.theme.BackgroundColor
 import com.example.rosaapp.ui.theme.BlackCustom
 import com.example.rosaapp.ui.theme.BlackLightCustom
-import com.example.rosaapp.ui.theme.Purple
+import com.example.rosaapp.ui.theme.Green
 
 @Composable
 fun FourScreen(
@@ -46,21 +46,21 @@ fun FourScreen(
         ) {
             Image(
                 modifier = Modifier.padding(30.dp),
-                painter = painterResource(id = R.drawable.image_11),
+                painter = painterResource(id = R.drawable.image_21),
                 contentDescription = ""
             )
         }
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "Mentira!!",
+            text = "Estou morrendo de saudade",
             style = MaterialTheme.typography.bodyLarge,
             color = BlackCustom
         )
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "Quero que você morra...",
+            text = "Não aguento ficar uma semana sem ver você",
             style = MaterialTheme.typography.titleLarge,
             color = BlackLightCustom
         )
@@ -75,8 +75,8 @@ fun FourScreen(
                 .height(56.dp)
                 .padding(horizontal = 30.dp),
             colors = ButtonDefaults.buttonColors(
-                contentColor = Purple,
-                containerColor = Purple
+                contentColor = Green,
+                containerColor = Green
             )
         ) {
             Text(

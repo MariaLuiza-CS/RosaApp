@@ -26,7 +26,7 @@ import androidx.navigation.NavHostController
 import com.example.rosaapp.ui.theme.BackgroundColor
 import com.example.rosaapp.ui.theme.BlackCustom
 import com.example.rosaapp.ui.theme.BlackLightCustom
-import com.example.rosaapp.ui.theme.Purple
+import com.example.rosaapp.ui.theme.Green
 
 @Composable
 fun FiveScreen(
@@ -47,21 +47,21 @@ fun FiveScreen(
             Image(
 
                 modifier = Modifier.padding(30.dp),
-                painter = painterResource(id = R.drawable.image_12),
+                painter = painterResource(id = R.drawable.image_22),
                 contentDescription = ""
             )
         }
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "Estou com saudade",
+            text = "Sério, estou morrendo ",
             style = MaterialTheme.typography.bodyLarge,
             color = BlackCustom
         )
         Spacer(modifier = Modifier.height(20.dp))
         Text(
             modifier = Modifier.padding(horizontal = 30.dp),
-            text = "Não vejo a hora de chegar quarta para eu puxar seu cabelo...",
+            text = "VOU ME MATAAAAAAAR",
             style = MaterialTheme.typography.titleLarge,
             color = BlackLightCustom
         )
@@ -76,8 +76,8 @@ fun FiveScreen(
                 .height(56.dp)
                 .padding(horizontal = 30.dp),
             colors = ButtonDefaults.buttonColors(
-                contentColor = Purple,
-                containerColor = Purple
+                contentColor = Green,
+                containerColor = Green
             )
         ) {
             Text(

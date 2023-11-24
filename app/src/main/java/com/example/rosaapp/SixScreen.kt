@@ -26,6 +26,9 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import com.example.rosaapp.ui.theme.BackgroundColor
 import com.example.rosaapp.ui.theme.BackgroundPink
+import com.example.rosaapp.ui.theme.BlackCustom
+import com.example.rosaapp.ui.theme.BlackLightCustom
+import com.example.rosaapp.ui.theme.Green
 
 @Composable
 fun SixScreen(
@@ -35,7 +38,7 @@ fun SixScreen(
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .background(BackgroundPink)
+            .background(BackgroundColor)
             .verticalScroll(state = scrollState),
         verticalArrangement = Arrangement.Bottom
     ) {
@@ -44,25 +47,25 @@ fun SixScreen(
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Image(
-
                 modifier = Modifier.padding(30.dp),
-                painter = painterResource(id = R.drawable.image_15),
+                painter = painterResource(id = R.drawable.image_23),
                 contentDescription = ""
             )
         }
         Spacer(modifier = Modifier.height(20.dp))
-        Column(
-            modifier = Modifier.fillMaxWidth(),
-            horizontalAlignment = Alignment.CenterHorizontally
-        ) {
-            Text(
-                modifier = Modifier.padding(horizontal = 30.dp),
-                text = "RECADO \n URGENTE \n !!!",
-                style = MaterialTheme.typography.bodyLarge,
-                color = Color.Black,
-                textAlign = TextAlign.Center
-            )
-        }
+        Text(
+            modifier = Modifier.padding(horizontal = 30.dp),
+            text = "Enfim, voltando com a boiolisse",
+            style = MaterialTheme.typography.bodyLarge,
+            color = BlackCustom
+        )
+        Spacer(modifier = Modifier.height(20.dp))
+        Text(
+            modifier = Modifier.padding(horizontal = 30.dp),
+            text = "Nojeira...",
+            style = MaterialTheme.typography.titleLarge,
+            color = BlackLightCustom
+        )
         Spacer(modifier = Modifier.height(40.dp))
         Button(
             onClick = {
@@ -74,15 +77,15 @@ fun SixScreen(
                 .height(56.dp)
                 .padding(horizontal = 30.dp),
             colors = ButtonDefaults.buttonColors(
-                contentColor = BackgroundColor,
-                containerColor = BackgroundColor
+                contentColor = Green,
+                containerColor = Green
             )
         ) {
             Text(
                 modifier = Modifier.padding(start = 16.dp),
-                text = "Continuar",
+                text = "Avançar",
                 style = MaterialTheme.typography.titleLarge,
-                color = Color.Black
+                color = Color.White
             )
         }
         Spacer(modifier = Modifier.height(30.dp))

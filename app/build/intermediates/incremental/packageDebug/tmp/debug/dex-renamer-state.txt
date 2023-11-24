@@ -1,4 +1,4 @@
-#Tue Nov 07 12:51:07 BRT 2023
+#Fri Nov 24 15:28:55 BRT 2023
 base.0=C\:\\Users\\maria\\AndroidStudioProjects\\RosaApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\maria\\AndroidStudioProjects\\RosaApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\maria\\AndroidStudioProjects\\RosaApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex

@@ -8,6 +8,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">RosaApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">618037539651</string>
+    <string name="google_api_key" translatable="false">AIzaSyB57Uj2WITZp0cWGPMS_zr1HCbNKNBAah0</string>
+    <string name="google_app_id" translatable="false">1:618037539651:android:c7f113fcd52ff6b6ec35f6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB57Uj2WITZp0cWGPMS_zr1HCbNKNBAah0</string>
+    <string name="google_storage_bucket" translatable="false">rosaapp-86f9f.appspot.com</string>
+    <string name="project_id" translatable="false">rosaapp-86f9f</string>
     <style name="Theme.RosaApp" parent="android:Theme.Material.Light.NoActionBar"/>
     <style name="Theme.RosaApp.MySplash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">#F8F7FF</item>

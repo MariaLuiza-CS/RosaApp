@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618037539651",
+    "project_id": "rosaapp-86f9f",
+    "storage_bucket": "rosaapp-86f9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618037539651:android:c7f113fcd52ff6b6ec35f6",
+        "android_client_info": {
+          "package_name": "com.example.rosaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57Uj2WITZp0cWGPMS_zr1HCbNKNBAah0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
