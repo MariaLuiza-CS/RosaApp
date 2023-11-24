@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RosaApp.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#F8F7FF</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/group_35254</item>
+        <item name="postSplashScreenTheme">@style/Theme.RosaApp</item>
+    </style>
+</resources>
