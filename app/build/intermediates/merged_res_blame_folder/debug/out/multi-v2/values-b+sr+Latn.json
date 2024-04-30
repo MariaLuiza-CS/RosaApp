@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.rosaapp-mergeDebugResources-64:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "com.example.rosaapp-mergeDebugResources-65:/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\maria\\.gradle\\caches\\transforms-3\\53c833652ec3281ee11b6747cee960ea\\transformed\\material3-1.1.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",

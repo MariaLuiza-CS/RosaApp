@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.rosaapp-mergeDebugResources-64:/values-et/values-et.xml",
+            "outputFile": "com.example.rosaapp-mergeDebugResources-65:/values-et/values-et.xml",
             "map": [
                 {
                     "source": "C:\\Users\\maria\\.gradle\\caches\\transforms-3\\245fdebad9087aefbd04e6312b6fffca\\transformed\\play-services-basement-18.1.0\\res\\values-et\\values.xml",

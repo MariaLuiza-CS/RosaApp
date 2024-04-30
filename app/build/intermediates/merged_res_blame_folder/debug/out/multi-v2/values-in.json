@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.rosaapp-mergeDebugResources-64:/values-in/values-in.xml",
+            "outputFile": "com.example.rosaapp-mergeDebugResources-65:/values-in/values-in.xml",
             "map": [
                 {
                     "source": "C:\\Users\\maria\\.gradle\\caches\\transforms-3\\3c28d3caf4df824081f8745a72e37c65\\transformed\\browser-1.4.0\\res\\values-in\\values-in.xml",

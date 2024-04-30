@@ -1,250 +1,458 @@
 [
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_group_35254.xml.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/group_35254.xml"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_italic.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_italic.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_29.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_29.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_33__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_33__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_black.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_black.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_10__1_.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_10__1_.png"
+        "merged": "com.example.rosaapp-merged_res-67:/raw_teste.json.flat",
+        "source": "com.example.rosaapp-main-69:/raw/teste.json"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_baseline_adb_24.xml.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/baseline_adb_24.xml"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_thin_italic.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_thin_italic.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_light.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_light.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_extra_bold.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_extra_bold.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_extra_bold_italic.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_extra_bold_italic.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_36__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_36__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/xml_backup_rules.xml.flat",
-        "source": "com.example.rosaapp-main-68:/xml/backup_rules.xml"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_30.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_30.png"
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_25.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_25.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_33__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_33__2_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/raw_teste.json.flat",
-        "source": "com.example.rosaapp-main-68:/raw/teste.json"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_45__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_45__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_22.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_22.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_rosa_img.png.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/rosa_img.png"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_regular.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_regular.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_54__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_54__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_medium.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_medium.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_image_25.png.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/image_25.png"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_14.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_14.png"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_bold.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_bold.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_semi_bold_italic.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_semi_bold_italic.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_48__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_48__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_48__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_48__2_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_thin.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_thin.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_51__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_51__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_32.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_32.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_baseline_adb_24.xml.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/baseline_adb_24.xml"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_36__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_36__2_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_42.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_42.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_51__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_51__2_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_40.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_40.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.example.rosaapp-merged_res-67:/raw_lottieanimation.json.flat",
+        "source": "com.example.rosaapp-main-69:/raw/lottieanimation.json"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_black.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_black.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_50.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_50.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_extra_bold.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_extra_bold.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_23.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_23.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_32.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_32.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_10.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_10.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_49.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_49.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_black_italic.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_black_italic.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.rosaapp-main-69:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_26.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_26.png"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_semi_bold.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_semi_bold.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_extra_light_italic.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_extra_light_italic.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_extra_light.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_extra_light.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/baseline_arrow_forward_ios_24.xml"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.rosaapp-main-68:/xml/data_extraction_rules.xml"
+        "merged": "com.example.rosaapp-merged_res-67:/xml_backup_rules.xml.flat",
+        "source": "com.example.rosaapp-main-69:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_bold_italic.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_bold_italic.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_regular.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_regular.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_37__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_37__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_light_italic.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_light_italic.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_32__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_32__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_20.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_20.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_32__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_32__2_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_31.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_31.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_32__3_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_32__3_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_12.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_12.png"
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_extra_light_italic.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_extra_light_italic.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/raw_aniimation.json.flat",
-        "source": "com.example.rosaapp-main-68:/raw/aniimation.json"
+        "merged": "com.example.rosaapp-merged_res-67:/raw_aniimation.json.flat",
+        "source": "com.example.rosaapp-main-69:/raw/aniimation.json"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_italic.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_italic.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_43__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_43__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_19.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_19.png"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_extra_light.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_extra_light.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_bold.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_bold.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_group_35254.xml.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/group_35254.xml"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_27.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_27.png"
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_6__1_.xml.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_6__1_.xml"
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_medium_italic.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_medium_italic.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/raw_lv_0_20240429201849.mp4.flat",
+        "source": "com.example.rosaapp-main-69:/raw/lv_0_20240429201849.mp4"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_thin_italic.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_thin_italic.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_56__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_56__2_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_28.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_28.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_56__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_56__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_15.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_15.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_41.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_41.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_7.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_7.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_51.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_51.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/raw_lottieanimation.json.flat",
-        "source": "com.example.rosaapp-main-68:/raw/lottieanimation.json"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_31.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_31.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/font_poppins_semi_bold.ttf.flat",
-        "source": "com.example.rosaapp-main-68:/font/poppins_semi_bold.ttf"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_54.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_54.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_11.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_11.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_44.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_44.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_black_italic.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_black_italic.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_24.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_24.png"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_38__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_38__1_.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_34.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_34.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_18.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_18.png"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_extra_bold_italic.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_extra_bold_italic.ttf"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.rosaapp-main-68:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_47.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_47.jpeg"
     },
     {
-        "merged": "com.example.rosaapp-merged_res-66:/drawable_image_21.png.flat",
-        "source": "com.example.rosaapp-main-68:/drawable/image_21.png"
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_light_italic.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_light_italic.ttf"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_57.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_57.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_semi_bold_italic.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_semi_bold_italic.ttf"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_medium_italic.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_medium_italic.ttf"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_37.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_37.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_35__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_35__2_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_ic_image_ceza.jpg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/ic_image_ceza.jpg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_35__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_35__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_34__3_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_34__3_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_34__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_34__2_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_47__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_47__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_34__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_34__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_52__3_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_52__3_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_52__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_52__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_52__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_52__2_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_bold_italic.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_bold_italic.ttf"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_38.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_38.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_48.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_48.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_53__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_53__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_46__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_46__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_medium.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_50__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_50__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_light.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_55__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_55__2_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_49__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_49__2_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_52.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_52.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_49__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_49__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_53.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_53.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_43.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_43.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/font_poppins_thin.ttf.flat",
+        "source": "com.example.rosaapp-main-69:/font/poppins_thin.ttf"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_33.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_33.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_50__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_50__2_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_56.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_56.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_46.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_46.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_44__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_44__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_57__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_57__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_36.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_36.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_55__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_55__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_31__1_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_31__1_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_31__2_.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_31__2_.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_55.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_55.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.rosaapp-main-69:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_45.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_45.jpeg"
+    },
+    {
+        "merged": "com.example.rosaapp-merged_res-67:/drawable_whatsapp_image_2024_04_29_at_16_00_35.jpeg.flat",
+        "source": "com.example.rosaapp-main-69:/drawable/whatsapp_image_2024_04_29_at_16_00_35.jpeg"
     }
 ]

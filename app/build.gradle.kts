@@ -84,4 +84,10 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:32.3.1"))
     implementation ("com.google.firebase:firebase-analytics:21.5.0")
     implementation("com.google.firebase:firebase-auth-ktx")
+
+    // Coil
+    implementation("io.coil-kt:coil-compose:2.4.0")
+
+    implementation("com.google.accompanist:accompanist-systemuicontroller:0.27.0")
+
 }
