@@ -71,7 +71,7 @@ fun FeelingScreen(
                     "\n" +
                     "Tem a possibilidade de você me dar um pé na bunda qualquer dia desses? Sim, porém vale a pena a tentativa e não anula as outras partes.\n" +
                     "\n" +
-                    "Fazer as coisas juntinhas e compartilhar a vida com outra pessoa pode ser uma coisa legal; dormir de bundinha, tomar cafezinho, assistir casimiro, fofocar, surtar juntos...\n" +
+                    "Fazer as coisas juntinhas e compartilhar a vida com outra pessoa pode ser uma coisa legal; dormir de bundinha, tomar cafezinho, assistir casimiro, fofocar, surtar juntas...\n" +
                     "\n" +
                     "Quando você está dormindo de boca aberta, com o maxilar deslocado e eu fico alisando seu cabelinho, escutando a sua respiração... não sei explicar essa sensação, acho que pode ser definido como uma coisa leve, um quentinho no coração, uma vontade de explodir. E quando eu falo uma coisa leve, não significa que são tudo flores e unicórnios fofinhos, nenhuma relação é assim, mas fico com um pensamento de “vai passar, a gente resolve”, sinto que tenho abertura para conversar com você sobre coisas que me incomodam.\n" +
                     "\n" +
